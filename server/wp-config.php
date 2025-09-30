@@ -57,7 +57,7 @@ define( 'SECURE_AUTH_SALT', 'd(+49W/x8Lp.Hr4]LSz+M`9?p6;gl`y)kI6/6H(L8JbfE)8oom=
 define( 'LOGGED_IN_SALT',   'EbUstW(X`1}`A29qHzv=f0{eVIo(lo(l`r?VC1VmB2fK2<XZ%8>`K_f3~dF/?*JT' );
 define( 'NONCE_SALT',       '?ZV!ia(!jzi5A6V6GBR%Hx2Ua=N(5z 6*ZuaF,6Ws$liWna<o(pKVbY8/m[MlX1n' );
 
-define('JWT_AUTH_SECRET_KEY', '-[<bE4_wI-%m*KBcKxA5C<:cI2*a,&*44CSd[c-PO>6&6qj)OJ3P,E5}Y=|Oi|gq');
+define('JWT_AUTH_SECRET_KEY', 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vY29tbWVyY2UubG9jYWwiLCJpYXQiOjE3NTEzMDI5MzAsIm5iZiI6MTc1MTMwMjkzMCwiZXhwIjoxNzUxOTA3NzMwLCJkYXRhIjp7InVzZXIiOnsiaWQiOiIxIn19fQ.tHgxifsF97NY1gkfNnDGvP94i5I2LxaymXc0dw0h6AI');
 define('JWT_AUTH_CORS_ENABLE', true);
 
 /**#@-*/
